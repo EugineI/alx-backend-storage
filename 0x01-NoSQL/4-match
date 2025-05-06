@@ -1,2 +1,2 @@
-//list ALx items
-db.school.find({name:"ALX"});
+//list ALX items
+db.school.find({ name: "ALX" })

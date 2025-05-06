@@ -1,2 +1,2 @@
-/switching to or creating a new DB
+// switching to or creating a new DB
 use my_db;
